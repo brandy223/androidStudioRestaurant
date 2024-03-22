@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidERestaurant</string>
+    <string name="title_activity_list">CategoryActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_main">HomeActivity</string>
+    <string name="home_screen_title">HomeActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
 </resources>
